@@ -42,7 +42,7 @@ header {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  right: 0;
   z-index: 1000;
   background-color: transparent;
   transition: background-color 0.3s ease-in-out;
