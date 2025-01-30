@@ -7,4 +7,4 @@
 <img src="https://i.imgur.com/rqILGRY.png" alt="website-image">
 
 <h3> Home Page 🏡 Demo :</h3>
-<div align="center">🎁 <a href="https://ahmedmido75.github.io/tutor-website/">To See Full Website 👉 Leno - Website</a></div>
+<div align="center">🎁 <a href="https://ahmedmido75.github.io/leno-project/">To See Full Website 👉 Leno - Website</a></div>
